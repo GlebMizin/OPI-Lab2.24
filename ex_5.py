@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 from threading import Barrier, Thread
 from time import sleep, time
 
